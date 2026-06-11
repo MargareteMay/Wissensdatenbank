@@ -1,6 +1,6 @@
-Schwarzwälder Kirschtorte
+# Schwarzwälder Kirschtorte
 
-Zutaten für 1 Blech (ca. 20 Stücke):
+## Zutaten für 1 Blech (ca. 20 Stücke):
 10	Eier
 0.25 TL	Salz
 300 g	Zucker
